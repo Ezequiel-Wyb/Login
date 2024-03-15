@@ -1,0 +1,22 @@
+*
+{
+    background-color: blanchedalmond;
+}
+.texto
+{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 20px 0 black(0, 0, 0, 0.1);
+}
+img
+{
+    width: 20%;
+    height: 20%;
+}
